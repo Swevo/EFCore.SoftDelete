@@ -1,6 +1,7 @@
 # Swevo.EFCore.SoftDelete
 
-[![NuGet](https://img.shields.io/nuget/v/Swevo.EFCore.SoftDelete.svg)](https://www.nuget.org/packages/Swevo.EFCore.SoftDelete/)
+[![NuGet](https://img.shields.io/nuget/v/Swevo.EFCore.SoftDelete
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.EFCore.SoftDelete.svg)](https://www.nuget.org/packages/Swevo.EFCore.SoftDelete).svg)](https://www.nuget.org/packages/Swevo.EFCore.SoftDelete/)
 [![Build](https://github.com/Swevo/EFCore.SoftDelete/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/EFCore.SoftDelete/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
