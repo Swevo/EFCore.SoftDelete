@@ -4,6 +4,7 @@
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.EFCore.SoftDelete.svg)](https://www.nuget.org/packages/Swevo.EFCore.SoftDelete).svg)](https://www.nuget.org/packages/Swevo.EFCore.SoftDelete/)
 [![Build](https://github.com/Swevo/EFCore.SoftDelete/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/EFCore.SoftDelete/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![.NET 10 Ready](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](#)
 
 Compile-time soft-delete generation for EF Core entities using Roslyn source generators. Add `[SoftDelete]` to any `partial` entity class and get `IsDeleted` + `DeletedAt` fields, an interceptor that converts hard deletes to soft deletes, and a global query filter — all at build time. Zero reflection, AOT-safe, no runtime overhead.
 
